@@ -27,7 +27,7 @@ public class Exercicio01 {
         if (numero < 0) { // Sse o número for menor (<) que 0
             System.out.println("O número: " + numero + " é negativo"); // Manda a mensagem dizendo que o número é negativo
         } else { // Se não
-            System.out.println("O número : " +numero + " é postivo"); // Manda mensagem dizendo que o número é positivo
+            System.out.println("O número : " + numero + " é postivo"); // Manda mensagem dizendo que o número é positivo
         }
         sc.close(); // Fechando o objeto sc.
     }
