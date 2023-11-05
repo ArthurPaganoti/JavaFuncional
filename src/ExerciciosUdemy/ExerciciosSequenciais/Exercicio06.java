@@ -9,6 +9,12 @@
 
 package ExerciciosUdemy.ExerciciosSequenciais;
 
+// Passo a Passo:
+// 1. Declarar as variáveis do tipo double
+// 2. Ler os valores
+// 3. Calcular as áreas
+// 4. Imprimir os resultados
+
 import java.util.Locale;
 import java.util.Scanner;
 
