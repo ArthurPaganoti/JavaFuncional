@@ -8,7 +8,7 @@ package ExerciciosInternet;
 // 1 - Importar o Scanner
 // 2 - Instanciar o Scanner
 // 3 - Criar as variáveis
-// 4 - Criar o algoritmo
+// 4 - Fazer a verificação se a soma é menor que C
 // 5 - Fechar o Scanner
 
 

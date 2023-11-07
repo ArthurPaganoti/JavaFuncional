@@ -22,7 +22,7 @@ public class Exercicio03 {
         System.out.println("Digite o valor de B: ");
         valorB = sc.nextDouble();
 
-        // Condicional para verificar se os valores são iguais, e se for igual soma
+        // Condicional para verificar se os valores são iguais, e se for igual soma, se não multiplica
         if (valorA == valorB) {
             resultado = valorA + valorB;
             System.out.println("O resultado da soma é: " + resultado);
@@ -30,6 +30,6 @@ public class Exercicio03 {
             resultado = valorA * valorB;
             System.out.println("O resultado da multiplicação é: " + resultado);
         }
-        sc.close();
+        sc.close(); // 5 - Fechar o Scanner
     }
 }
