@@ -41,5 +41,6 @@ public class Exercicio11 {
         } else {
             System.out.println("O aluno " + nomeAluno + " foi reprovado com a média: " + media);
         }
+        sc.close();
     }
 }
