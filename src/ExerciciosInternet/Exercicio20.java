@@ -21,6 +21,6 @@ public class Exercicio20 {
         for(int i = 1; i<= 10; i++) { // Loop para imprimir a tabuada de 1 até 10
         System.out.println(numero + " x " + i + " = " + numero * i);
         }
-        sc.close();
+        sc.close(); // Fechando o objeto Scanner
     }
 }
