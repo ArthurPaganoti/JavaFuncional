@@ -1,0 +1,1 @@
+Nesta pasta ficaram alguns exercícios da faculdade
