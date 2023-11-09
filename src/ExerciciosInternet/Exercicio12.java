@@ -41,25 +41,54 @@ public class Exercicio12 {
         formaPagamento = sc.nextInt();
 
         // Verificando a forma de pagamento e calculando o valor final da compra
-        if (formaPagamento == 1) {
-            System.out.println("Digite o valor da compra: ");
-            valorCompra = sc.nextDouble();
-            System.out.println("O valor final da compra é: " + (valorCompra - (valorCompra * 0.15)));
-        } else if (formaPagamento == 2) {
-            System.out.println("Digite o valor da compra: ");
-            valorCompra = sc.nextDouble();
-            System.out.println("O valor final da compra é: " + (valorCompra - (valorCompra * 0.10)));
-        } else if (formaPagamento == 3) {
-            System.out.println("Digite o valor da compra: ");
-            valorCompra = sc.nextDouble();
-            System.out.println("O valor final da compra é: " + valorCompra);
-        } else if (formaPagamento == 4) {
-            System.out.println("Digite o valor do produto: ");
-            valorCompra = sc.nextDouble();
-            System.out.println("O valor da compra é: " + (valorCompra + (valorCompra * 0.10)));
-        } else {
-            System.out.println("Forma de pagamento não encontrada");
+        // Para esse exemplo, o if e else if é mais indicado, mas também podemos utilizar o switch
+
+        switch (formaPagamento) {
+            case 1:
+                System.out.println("Digite o valor da compra: ");
+                valorCompra = sc.nextDouble();
+                System.out.println("O valor final da compra é: " + (valorCompra - (valorCompra * 0.15)));
+                break;
+            case 2:
+                System.out.println("Digite o valor da compra: ");
+                valorCompra = sc.nextDouble();
+                System.out.println("O valor final da compra é: " + (valorCompra - (valorCompra * 0.10)));
+                break;
+            case 3:
+                System.out.println("Digite o valor da compra: ");
+                valorCompra = sc.nextDouble();
+                System.out.println("O valor final da compra é: " + valorCompra);
+                break;
+            case 4:
+                System.out.println("Digite o valor do produto: ");
+                valorCompra = sc.nextDouble();
+                System.out.println("O valor da compra é: " + (valorCompra + (valorCompra * 0.10)));
+                break;
+            default:
+                System.out.println("Forma de pagamento não encontrada");
+                break;
         }
+
+        // Ou podemos fazer utilizando if e else if
+        // if (formaPagamento == 1) {
+        //     System.out.println("Digite o valor da compra: ");
+        //     valorCompra = sc.nextDouble();
+        //     System.out.println("O valor final da compra é: " + (valorCompra - (valorCompra * 0.15)));
+        // } else if (formaPagamento == 2) {
+        //     System.out.println("Digite o valor da compra: ");
+        //     valorCompra = sc.nextDouble();
+        //     System.out.println("O valor final da compra é: " + (valorCompra - (valorCompra * 0.10)));
+        // } else if (formaPagamento == 3) {
+        //     System.out.println("Digite o valor da compra: ");
+        //     valorCompra = sc.nextDouble();
+        //     System.out.println("O valor final da compra é: " + valorCompra);
+        // } else if (formaPagamento == 4) {
+        //     System.out.println("Digite o valor do produto: ");
+        //     valorCompra = sc.nextDouble();
+        //     System.out.println("O valor da compra é: " + (valorCompra + (valorCompra * 0.10)));
+        // } else {
+        //     System.out.println("Forma de pagamento não encontrada");
+        // }
         sc.close(); // Fechando o Scanner
     }
 }

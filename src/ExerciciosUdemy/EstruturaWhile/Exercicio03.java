@@ -32,15 +32,28 @@ public class Exercicio03 {
         // Enquanto o codigo for diferente de 4, o programa vai continuar rodando
         while (codigo != 4) {
 
-            if (codigo == 1) { // Se o codigo for igual a 1, vai adicionar +1 na variavel alcool
-                alcool++;
-            } else if (codigo == 2) { // Se o codigo for igual a 2, vai adicionar +1 na variavel gasolina
-                gasolina++;
-            } else if (codigo == 3) { // Se o codigo for igual a 3, vai adicionar +1 na variavel diesel
-                diesel++;
-            } else { // Se o codigo for diferente de 1, 2 e 3, vai mandar uma mensagem de erro
-                break;
+            // Para esse tipo de exercicio, o switch é mais indicado
+            switch (codigo) {
+                case 1:
+                    alcool++;
+                    break;
+                case 2:
+                    gasolina++;
+                    break;
+                case 3:
+                    diesel++;
+                    break;
+                default:
+                    break;
             }
+            // Ou também podemos fazer utilizando if e else if
+            // if (codigo == 1) {
+            // alcool++;
+            // } else if (codigo == 2) {
+            // gasolina++;
+            // } else if (codigo == 3) {
+            // diesel++;
+            // }
 
             // Mandando a mensagem na tela para o usuario e armazenando na variavel codigo
             System.out.println("Digite o codigo do combustivel: ");
