@@ -84,5 +84,7 @@ public class Exercicio01 {
         valor *= 100;
         int primeiroDigito = valor / 100; // Divide o valor por 100 para pegar o primeiro digito
         System.out.println("Valor: " + primeiroDigito); // Imprime o primeiro digito
+
+        sc.close(); // Fecha o objeto sc
     }
 }

@@ -47,5 +47,6 @@ public class Exercicio02{
         salarioFinal = salario - desconto + bonus; // Salário final recebe o valor do salário - desconto + bonus
         System.out.println("O salário final do funcionário é: " + salarioFinal); // Imprime o salário final do funcionário
 
+        scan.close(); // Fecha o objeto scan
     }
 }
