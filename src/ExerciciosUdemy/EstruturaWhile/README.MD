@@ -1,0 +1,1 @@
+Nesta pasta ficará alguns exercícios da estrutura repetitiva while
