@@ -8,7 +8,7 @@ package ExerciciosUdemy.ExerciciosCondicionais;
 // Passo a Passo:
 // 1. Declarar as variáveis do tipo inteiro
 // 2. Ler os valores
-// 3. Verificar se os valores são multiplos
+// 3. Verificar se os valores estão no intervalo
 // 4. Imprimir o resultado
 
 import java.util.Locale;
