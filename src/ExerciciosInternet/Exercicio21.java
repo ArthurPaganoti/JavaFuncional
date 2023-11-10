@@ -14,8 +14,13 @@ public class Exercicio21 {
         // Variaveis
         int numeroAleatorio;
 
-        numeroAleatorio = aleatorio.nextInt(100) + 1; // Pedindo para gerar um número aleatorio entre 1 e 100
+        // Gerando 100 números aleatorios e imprimindo os 100 números aleatorios
+        for (int i = 0; i < 100; i++) { // Para i = 0, enquanto i for menor que 100, incremente i
+            numeroAleatorio = aleatorio.nextInt(100) + 1; // Pedindo para gerar um número aleatorio entre 1 e 100
 
-        System.out.println("O número aleátorio é: " + numeroAleatorio); // Imprimindo o número aleátorio
+            System.out.println("O número aleátorio é: " + numeroAleatorio); // Imprimindo o número aleátorio
+        }
+
+        numeroAleatorio = aleatorio.nextInt(100) + 1; // Gerando um número aleatorio entre 1 e 100
     }
 }
