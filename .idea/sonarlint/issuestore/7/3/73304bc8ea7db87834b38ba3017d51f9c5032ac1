@@ -1,0 +1,7 @@
+
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ºı”t
+[
+java:S1659"FDeclare "valorDois" and all following declarations on a separate line.(«Ÿe
+?	java:S106"+Replace this use of System.out by a logger.(¨ğ÷F
+@	java:S106"+Replace this use of System.out by a logger.(İ­Š
+E	java:S106$"+Replace this use of System.out by a logger.(¿—ªøÿÿÿÿ

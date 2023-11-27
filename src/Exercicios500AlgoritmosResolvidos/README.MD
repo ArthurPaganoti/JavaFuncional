@@ -1,0 +1,1 @@
+Nesta pasta você encontrará alguns dos  exercícios resolvidos do livro 500 Algoritmos Resolvidos.
