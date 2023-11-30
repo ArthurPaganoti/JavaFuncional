@@ -35,8 +35,6 @@ f
 6src/Exercicios500AlgoritmosResolvidos/Algoritmo12.java,c\e\ce8d60b57a7966fe7f1de53f365b9b00e4af3600
 f
 6src/Exercicios500AlgoritmosResolvidos/Algoritmo13.java,3\a\3a118df7807036db3c228c576b2709d9052fdcae
-D
-src/Algoritmo14.java,3\8\38dc2bd3d36413f5138c58f2140a7f6599ff432b
 f
 6src/Exercicios500AlgoritmosResolvidos/Algoritmo14.java,4\4\4431146806879a3305d56e5cba197a3bc765f1f8
 Å
@@ -55,3 +53,13 @@ G.idea/sonarlint/issuestore/6/7/6707abcd6bad7d708a8fd47c1ef6e2e974766fbd,4\7\47
 Q.idea/sonarlint/securityhotspotstore/4/4/4431146806879a3305d56e5cba197a3bc765f1f8,6\9\691a51797c89c8832cb038813f519e6770012fdd
 Å
 Q.idea/sonarlint/securityhotspotstore/3/8/38dc2bd3d36413f5138c58f2140a7f6599ff432b,8\f\8fd57d3bfadb870367f932d9dda6dcae3f9a635e
+f
+6src/Exercicios500AlgoritmosResolvidos/Algoritmo15.java,2\8\28ce7a10f7203dcff0afab29bfa4c7e8e1863dc3
+f
+6src/Exercicios500AlgoritmosResolvidos/Algoritmo16.java,2\6\26cd6a7ce211c437d1097789624497ab5bfef021
+f
+6src/Exercicios500AlgoritmosResolvidos/Algoritmo17.java,1\f\1fe89393c24b70834c3b57578a906f4242f48f12
+f
+6src/Exercicios500AlgoritmosResolvidos/Algoritmo18.java,b\a\baa96517a0cff162e8c0fe66387e5c63a4216135
+f
+6src/Exercicios500AlgoritmosResolvidos/Algoritmo19.java,1\b\1b9c2eebf39af8c324f643df493fd107df0f22c0

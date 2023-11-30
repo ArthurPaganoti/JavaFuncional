@@ -35,7 +35,8 @@ public class Exercicio01 {
         // Imprimindo a mensagem com o resultado da soma:
         System.out.println("O resultado da soma é: " + resultadoSoma);
 
-        // Fechando o objeto sc:
+        // Fechando o objeto sc
+
         sc.close();
     }
 }
