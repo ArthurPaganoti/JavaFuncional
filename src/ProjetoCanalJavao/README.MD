@@ -1,4 +1,4 @@
-Este é um projeto que peguei em um canal do youtube.
+Este é um projeto que peguei em um canal do youtube de um sistema de gestão escolar.
 
 Canal: Canal do Javão.
 
