@@ -431,3 +431,11 @@ Q.idea/sonarlint/securityhotspotstore/1/8/184f8c1209b4c626912ea29c7ba6e0414f7dfe
 Q.idea/sonarlint/securityhotspotstore/1/9/19fa4cffef5b247c9738ee600baa9fd1f7ff7ae9,7\b\7b633fa88f6f2bd2ed1d462d68b6013aa62a1951
 Å
 Q.idea/sonarlint/securityhotspotstore/1/b/1b9c2eebf39af8c324f643df493fd107df0f22c0,0\c\0ce78f2eaedc68bb51d9565d21bad1421c2e6b06
+Q
+!src/ExerciciosFaculdade/README.MD,c\5\c59a1dc5566b67c2893811102f43671a0f685b06
+X
+(src/ExerciciosFaculdade/Exercicio03.java,6\b\6bce3333678fee54e3e763447ced6596a0ef3f17
+=
+src/README.MD,e\9\e919732270e078a63e121950e211434e82c3de9d
+M
+src/ExerciciosUdemy/README.MD,d\8\d87d0849979ead3a383e92bc5a227a230776a38f
