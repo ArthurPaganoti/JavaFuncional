@@ -1,0 +1,28 @@
+
+€
+java:S1192,"^Define a constant instead of duplicating this literal "Novo sÃ¡lario com aumento R$ " 4 times.(‰ÿ©¨ûÿÿÿÿ8öîÀÑ1
+
+java:S1192("_Define a constant instead of duplicating this literal "SÃ¡lario antes do reajuste R$ " 4 times.(ó†Ü¤ùÿÿÿÿ8÷îÀÑ1
+w
+java:S1192+"UDefine a constant instead of duplicating this literal "Valor do aumento R$ " 4 times.(×Á¶²üÿÿÿÿ8÷îÀÑ1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(­†Ïƒ8‚’¸Ñ1
+X	java:S125"<This block of commented-out lines of code should be removed.(¢Õğ´8„’¸Ñ1
+O
+java:S1659""-Declare "reajusteSalario" on a separate line.(Ãûøÿÿÿÿ8ˆ’¸Ñ1
+G	java:S106$"+Replace this use of System.out by a logger.(”í’¼8‹’¸Ñ1
+L	java:S106("+Replace this use of System.out by a logger.(ó†Ü¤ùÿÿÿÿ8Œ’¸Ñ1
+G	java:S106)"+Replace this use of System.out by a logger.(ãàì«8Œ’¸Ñ1
+L	java:S106+"+Replace this use of System.out by a logger.(×Á¶²üÿÿÿÿ8Œ’¸Ñ1
+L	java:S106,"+Replace this use of System.out by a logger.(‰ÿ©¨ûÿÿÿÿ8’¸Ñ1
+L	java:S106."+Replace this use of System.out by a logger.(ó†Ü¤ùÿÿÿÿ8’¸Ñ1
+F	java:S106/"+Replace this use of System.out by a logger.(„õım8’¸Ñ1
+L	java:S1061"+Replace this use of System.out by a logger.(×Á¶²üÿÿÿÿ8’¸Ñ1
+L	java:S1062"+Replace this use of System.out by a logger.(‰ÿ©¨ûÿÿÿÿ8ß´ºÑ1
+L	java:S1064"+Replace this use of System.out by a logger.(ó†Ü¤ùÿÿÿÿ8ïÀÑ1
+G	java:S1065"+Replace this use of System.out by a logger.(‹°Æ¸8ïÀÑ1
+L	java:S1067"+Replace this use of System.out by a logger.(×Á¶²üÿÿÿÿ8ïÀÑ1
+L	java:S1068"+Replace this use of System.out by a logger.(‰ÿ©¨ûÿÿÿÿ8ïÀÑ1
+L	java:S106:"+Replace this use of System.out by a logger.(ó†Ü¤ùÿÿÿÿ8ÒÉÂÑ1
+L	java:S106;"+Replace this use of System.out by a logger.(œÑ÷¸ûÿÿÿÿ8ÒÉÂÑ1
+L	java:S106="+Replace this use of System.out by a logger.(×Á¶²üÿÿÿÿ8ÒÉÂÑ1
+L	java:S106>"+Replace this use of System.out by a logger.(‰ÿ©¨ûÿÿÿÿ8ÒÉÂÑ1

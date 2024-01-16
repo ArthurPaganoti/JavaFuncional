@@ -1,0 +1,10 @@
+
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(­†Ïƒ8„ÌâœÑ1
+j
+java:S1659"HDeclare "produtoDois" and all following declarations on a separate line.(³ĞÛÓÿÿÿÿÿ8ÌâœÑ1
+G	java:S106"+Replace this use of System.out by a logger.(ÔØ¤ë8“ÌâœÑ1
+G	java:S106"+Replace this use of System.out by a logger.(¾·Âç8”ÌâœÑ1
+G	java:S106"+Replace this use of System.out by a logger.(Ìì±ô8”ÌâœÑ1
+G	java:S106#"+Replace this use of System.out by a logger.(¯ãõà8®æœÑ1
+L	java:S106%"+Replace this use of System.out by a logger.(Ñòºªıÿÿÿÿ8óÃéœÑ1
+L	java:S106'"+Replace this use of System.out by a logger.(öÂé›øÿÿÿÿ8ÇÀëœÑ1
