@@ -1,0 +1,12 @@
+
+]
+java:S21845"BCast one of the operands of this division operation to a "double".(Ìˆßèÿÿÿÿÿ
+[
+java:S21845"@Cast one of the operands of this integer division to a "double".(Ìˆßèÿÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‡˜±ñ
+V	java:S125"<This block of commented-out lines of code should be removed.(¿¬ÌŠÿÿÿÿÿ
+@	java:S106 "+Replace this use of System.out by a logger.(«Àáä
+E	java:S1069"+Replace this use of System.out by a logger.(æ‡ÔÌúÿÿÿÿ
+?	java:S106:"+Replace this use of System.out by a logger.(û–Ž
+@	java:S106;"+Replace this use of System.out by a logger.(žÐ‰Ò
+@	java:S106<"+Replace this use of System.out by a logger.(ÀƒÚÍ
