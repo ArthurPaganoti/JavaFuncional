@@ -1,0 +1,21 @@
+
+ˆ
+java:S1192,"fDefine a constant instead of duplicating this literal "Informe o valor que deseja investir: " 3 times.(²æžâýÿÿÿÿ8ÔÞŠËÑ1
+m
+java:S1192/"QDefine a constant instead of duplicating this literal "Lucro por mÃªs: " 3 times.(¸Å¸&8ÕÞŠËÑ1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(­†Ïƒ8ÖÞŠËÑ1
+]	java:S125"<This block of commented-out lines of code should be removed.(¿¾ˆúÿÿÿÿ8õÞŠËÑ1
+S
+java:S1659"1Declare "calculoInvestimento" on a separate line.(“°«Äÿÿÿÿÿ8÷ÞŠËÑ1
+G	java:S106""+Replace this use of System.out by a logger.(òÿåß8ûÞŠËÑ1
+L	java:S106#"+Replace this use of System.out by a logger.(‚–¥¢þÿÿÿÿ8ûÞŠËÑ1
+G	java:S106$"+Replace this use of System.out by a logger.(Ñçƒô8ûÞŠËÑ1
+L	java:S106%"+Replace this use of System.out by a logger.(àñäÿÿÿÿÿ8ûÞŠËÑ1
+G	java:S106&"+Replace this use of System.out by a logger.(‘¹Öù8üÞŠËÑ1
+L	java:S106,"+Replace this use of System.out by a logger.(²æžâýÿÿÿÿ8üÞŠËÑ1
+F	java:S106/"+Replace this use of System.out by a logger.(¸Å¸&8üÞŠËÑ1
+L	java:S1063"+Replace this use of System.out by a logger.(²æžâýÿÿÿÿ8ýÞŠËÑ1
+F	java:S1066"+Replace this use of System.out by a logger.(¸Å¸&8ýÞŠËÑ1
+L	java:S106:"+Replace this use of System.out by a logger.(²æžâýÿÿÿÿ8ýÞŠËÑ1
+F	java:S106="+Replace this use of System.out by a logger.(¸Å¸&8þÞŠËÑ1
+G	java:S106A"+Replace this use of System.out by a logger.(Üôè½8þÞŠËÑ1

@@ -1,0 +1,24 @@
+
+t
+java:S11928"RDefine a constant instead of duplicating this literal "Novo sÃ¡lario: R$" 3 times.(µÿßÅøÿÿÿÿ8ò¢‡ËÑ1
+v
+java:S11922"TDefine a constant instead of duplicating this literal "Digite o sÃ¡lario: " 3 times.(ã–¹İÿÿÿÿÿ8ò¢‡ËÑ1
+m	java:S117!"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ìå8ó¢‡ËÑ1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(­†Ïƒ8ó¢‡ËÑ1
+j
+java:S1659#"HDeclare "novoSalario" and all following declarations on a separate line.(¶œº¦şÿÿÿÿ8Ú£‡ËÑ1
+G	java:S106("+Replace this use of System.out by a logger.(­ÜÕš8İ£‡ËÑ1
+G	java:S106)"+Replace this use of System.out by a logger.(á´ò8İ£‡ËÑ1
+L	java:S106*"+Replace this use of System.out by a logger.(³á»’ıÿÿÿÿ8İ£‡ËÑ1
+G	java:S106+"+Replace this use of System.out by a logger.(ô¶òğ8İ£‡ËÑ1
+L	java:S106,"+Replace this use of System.out by a logger.(Ÿ÷¿òùÿÿÿÿ8İ£‡ËÑ1
+L	java:S1062"+Replace this use of System.out by a logger.(ã–¹İÿÿÿÿÿ8Ş£‡ËÑ1
+L	java:S1068"+Replace this use of System.out by a logger.(µÿßÅøÿÿÿÿ8Ş£‡ËÑ1
+L	java:S106<"+Replace this use of System.out by a logger.(µÿßÅøÿÿÿÿ8ß£‡ËÑ1
+L	java:S106@"+Replace this use of System.out by a logger.(µÿßÅøÿÿÿÿ8ß£‡ËÑ1
+L	java:S106E"+Replace this use of System.out by a logger.(ã–¹İÿÿÿÿÿ8ß£‡ËÑ1
+G	java:S106H"+Replace this use of System.out by a logger.(ÏŠØŠ8ß£‡ËÑ1
+L	java:S106L"+Replace this use of System.out by a logger.(ã–¹İÿÿÿÿÿ8ß£‡ËÑ1
+G	java:S106N"+Replace this use of System.out by a logger.(¦Çî 8à£‡ËÑ1
+L	java:S106Q"+Replace this use of System.out by a logger.(¼¸òÓùÿÿÿÿ8à£‡ËÑ1
+L	java:S106U"+Replace this use of System.out by a logger.(ˆìşÆıÿÿÿÿ8à£‡ËÑ1
