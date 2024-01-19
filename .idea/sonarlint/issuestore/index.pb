@@ -3135,3 +3135,7 @@ Q.idea/sonarlint/securityhotspotstore/6/5/659ca285650678fd5ebede3936ef820739359b
 Q.idea/sonarlint/securityhotspotstore/e/6/e638b70554db3e3d921a0af1359b9d408baf3d0f,9\0\90328a554a893aad33ca8d25fdd375874e750089
 Å
 Q.idea/sonarlint/securityhotspotstore/e/f/ef44413847a4a1e2679b803e19ded3ea24fd5caa,6\6\666e4f53f4e7999b09f94e4b6e5379a9e02b6926
+W
+'src/ExerciciosInternet/Exercicio29.java,6\b\6bef274d4747e9f761cba83159b2f7b4987a730d
+W
+'src/ExerciciosInternet/Exercicio30.java,4\a\4a8d117156883644aa50995ed797fda7d7ed1b00
